@@ -18,7 +18,7 @@
 ## 📫 Cómo Contactarme
 
 - **Correo Electrónico**: [desmendezd@gmail.com](mailto:desmendezd@gmail.com)
-- **LinkedIn**: [Daniel Méndez]([https://www.linkedin.com/in/daniel-mendez](https://www.linkedin.com/in/daniel-m%C3%A9ndez-d%C3%ADaz-9a128b258/))
+- **LinkedIn**: [Daniel Méndez Díaz](https://www.linkedin.com/in/daniel-m%C3%A9ndez-d%C3%ADaz-9a128b258/)
 - **Instagram**: [danniel_dmd](https://www.instagram.com/danniel_dmd/)
 
 ## 🔧 Herramientas y Tecnologías
