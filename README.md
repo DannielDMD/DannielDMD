@@ -1,41 +1,43 @@
-# ¡Hola! Soy Daniel Méndez 👋
+# Hello! I'm Daniel Mendez 👋
 
-¡Bienvenidos a mi perfil de GitHub! Soy un estudiante de séptimo semestre de Ingeniería de Sistemas en el Politécnico Grancolombiano. Estoy en constante crecimiento y aprendizaje en el mundo de la tecnología y el desarrollo de software.
+Welcome to my GitHub profile! I'm a Systems Engineering student at Politécnico Grancolombiano. I am constantly growing and learning in the world of technology and software development.
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Currently Learning.
 
-- **Lenguajes de Programación**: Python, Java, JavaScript, C#, C++
-- **Desarrollo Web**: HTML, CSS, Angular, Spring Boot
-- **Bases de Datos**: MySQL, PostgreSQL
+- **Programming Languages**: Python, Java, JavaScript, C#, C++
+- Web Development**: HTML, CSS, Angular, Spring Boot, .Net Core
+- Databases**: MySQL, PostgreSQL
 - **DevOps**: Git, Docker
 
-## 🎯 Intereses
+## 🎯 Interests.
 
-- **Inteligencia Artificial y Machine Learning**: Me apasiona el campo de la IA y estoy explorando diferentes algoritmos y técnicas de aprendizaje automático.
-- **Desarrollo de Software**: Disfruto creando aplicaciones y soluciones que pueden resolver problemas reales.
-- **Ciberseguridad**: Me interesa mucho el área de la seguridad informática y estoy aprendiendo sobre prácticas y herramientas para proteger sistemas y datos.
+- **Artificial Intelligence and Machine Learning**: I am passionate about the field of AI and am exploring different machine learning algorithms and techniques.
+- **Software Development**: I enjoy creating applications and solutions that can solve real problems.
+- **Cybersecurity**: I am very interested in the area of computer security and am learning about practices and tools to protect systems and data.
 
-## 📫 Cómo Contactarme
+## 📫 How to Contact Me.
 
-- **Correo Electrónico**: [desmendezd@gmail.com](mailto:desmendezd@gmail.com)
-- **LinkedIn**: [Daniel Méndez Díaz](https://www.linkedin.com/in/daniel-m%C3%A9ndez-d%C3%ADaz-9a128b258/)
+- **Email**: [desmendezd@gmail.com](mailto:desmendezd@gmail.com)
+- **LinkedIn**: [Daniel Mendez Diaz](https://www.linkedin.com/in/daniel-m%C3%A9ndez-d%C3%ADaz-9a128b258/)
 - **Instagram**: [danniel_dmd](https://www.instagram.com/danniel_dmd/)
 
-## 🔧 Herramientas y Tecnologías
+## 🔧 Tools and Technologies.
 
-- **IDEs**: Visual Studio Code, IntelliJ IDEA, PyCharm, Netbeans y Eclipse
-- **Control de Versiones**: Git, GitHub
-- **Sistemas Operativos**: Windows, Linux
+- **IDEs**: Visual Studio Code, IntelliJ IDEA, PyCharm, Netbeans, Eclipse
+- Version Control**: Git, GitHub
+- **Operating Systems**: Windows, Linux
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannielDMD&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielDMD&layout=compact&theme=radical)
 
-## ✨ Sobre Mí
+## ✨ About Me
 
-Soy una persona curiosa y apasionada por la tecnología. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente. Me encanta colaborar en proyectos y compartir conocimientos con la comunidad.
+I am a curious person who is passionate about technology. I am always looking for new opportunities to learn and grow professionally. I love collaborating on projects and sharing knowledge with the community.
 
 ---
 
-⭐️ No dudes en seguirme para ver mi progreso y mis futuros proyectos. ¡Gracias por visitar mi perfil!
+⭐️ Feel free to follow me to see my progress and future projects, thanks for visiting my profile!
+
+Translated with DeepL.com (free version)
