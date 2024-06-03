@@ -40,4 +40,3 @@ I am a curious person who is passionate about technology. I am always looking fo
 
 ⭐️ Feel free to follow me to see my progress and future projects, thanks for visiting my profile!
 
-Translated with DeepL.com (free version)
