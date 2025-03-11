@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Systems Engineering student at Politécnico 
 
 ## 🌱 Currently Learning.
 
-- **Programming Languages**: Python, Java, JavaScript, C#, C++
+- **Programming Languages**: Python, Java, JavaScript, C#, C++, VBA.
 - **Web Development**: HTML, CSS, React, Spring Boot, FastAPI, Flask, Node JS
-- **Databases**: MySQL, PostgreSQL, SQLLite, SQL Server
+- **Databases**: MySQL, PostgreSQL, SQLite, SQL Server
 - **DevOps**: Git, Docker
 
 ## 🎯 Interests.
