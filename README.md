@@ -1,6 +1,6 @@
 # Hello! I'm Daniel Mendez 👋
 
-Welcome to my GitHub profile! I'm a Systems Engineering student at Politécnico Grancolombiano. I am constantly growing and learning in the world of technology and software development.
+Welcome to my GitHub profile! I'm a Systems Engineering. I am constantly growing and learning in the world of technology and software development.
 
 ## 🌱 Currently Learning.
 
@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a Systems Engineering student at Politécnico 
 - **Web Development**: HTML, CSS, React, Angular, Vue.js, Spring Boot, FastAPI, Flask, Node JS
 - **Databases**: MySQL, PostgreSQL, SQLite, SQL Server
 - **DevOps**: Git, Docker
-
 
 
 ## 🚀 Featured Projects
