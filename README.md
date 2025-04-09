@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a Systems Engineering. I am constantly growing
 ## 📫 How to Contact Me.
 
 - **Email**: [desmendezd@gmail.com](mailto:desmendezd@gmail.com)
-- **LinkedIn**: [Daniel Mendez Diaz](https://www.linkedin.com/in/daniel-m%C3%A9ndez-d%C3%ADaz-9a128b258/)
+- **LinkedIn**: [Daniel Mendez Diaz](https://www.linkedin.com/in/daniel-m%C3%A9ndez-9a128b258/)
 - **Instagram**: [danniel_dmd](https://www.instagram.com/danniel_dmd/)
 
 ## 🔧 Tools and Technologies.
